@@ -1,0 +1,7 @@
+{
+  "name": "nav-react-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
